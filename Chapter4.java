@@ -76,7 +76,7 @@ public class Chapter4 {
 
         //rod cutting
 
-        int arr[ ] = { 1, 5, 8, 9, 10, 17, 17, 20 };
-        System.out.println(rodcut(arr, arr.length));
+        // int arr[ ] = { 1, 5, 8, 9, 10, 17, 17, 20 };
+        // System.out.println(rodcut(arr, arr.length));
     }
 }
